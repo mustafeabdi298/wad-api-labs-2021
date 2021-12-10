@@ -50,4 +50,3 @@ if (process.env.SEED_DB) {
   loadMovies();
 }
 
-
