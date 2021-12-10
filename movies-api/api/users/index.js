@@ -76,5 +76,3 @@ router.post('/:userName/favourites', asyncHandler(async (req, res) => {
 
 
 export default router;
-
-
