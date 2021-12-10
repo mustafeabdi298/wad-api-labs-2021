@@ -1,3 +1,4 @@
+import './seedData'
 import './db';
 import dotenv from 'dotenv';
 import express from 'express';
