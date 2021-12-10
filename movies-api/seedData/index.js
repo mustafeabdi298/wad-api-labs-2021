@@ -49,3 +49,5 @@ if (process.env.SEED_DB) {
   loadGenres();
   loadMovies();
 }
+
+
